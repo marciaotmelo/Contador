@@ -1,0 +1,38 @@
+
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    
+  }
+  
+  .numeros {
+    font-size: 50px;
+  
+  }
+  
+  .botao {
+    font-size: 16px;
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: rgb(177, 171, 185);
+    padding: 10px 20px;
+  }
+  
+  .botao:hover {
+    background-color:rgb(113, 94, 138);
+    cursor: pointer;
+  }
+  
+  .botao:active {
+    background-color:rgb(113, 94, 138);
+    color: rgb(177, 171, 185);
+  }
+
+  
